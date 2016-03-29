@@ -1,1 +1,3 @@
 Snapshot\AWSTest\LaunchAppOnRealDevice.class
+Snapshot\AWSTest\LaunchAppOnEmulator.class
+Snapshot\AWSTest\FileUploadTry.class
