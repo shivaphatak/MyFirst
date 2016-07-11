@@ -3,7 +3,7 @@ package Snapshot.AWSTest;
 public class PrintTraingles {
 
 	public static void main(String[] args) {
-		//This is trial Program1
+		//This is trial Program2
 		for(int i=5;i>0;i--)
 		{
 			for(int j=0;j<5-i;j++)
